@@ -1,7 +1,31 @@
 <style>
-    
 .table td, .table th {
      padding: .25rem !important; 
+}
+
+/* Add this for print */
+@media print {
+    .table, .table th, .table td {
+        font-size: 11px !important;
+        padding: 2px !important;
+        word-break: break-word;
+    }
+    .chota-table {
+        table-layout: fixed;
+        width: 100% !important;
+    }
+    .chota-table th, .chota-table td {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    body, html {
+        margin: 0;
+        padding: 0;
+    }
+}
+@page {
+    size: landscape;
 }
 </style>
 <div class="content-wrapper">
