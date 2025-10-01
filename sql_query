@@ -1,0 +1,15 @@
+26-02-2024
+- tblcompany add pancard no filed
+
+27-02-2024
+- CREATE TABLE `webnawbh_transportexpert`.`companies` ( `companiesId` INT(100) NOT NULL AUTO_INCREMENT , `CompanyId` INT(100) NOT NULL , `companiesName` VARCHAR(500) NOT NULL , `companiesAddress` VARCHAR(1000) NOT NULL , `companiesPincode` VARCHAR(10) NOT NULL , `companiesPhoneNo` VARCHAR(15) NOT NULL , `companiesEmailId` VARCHAR(100) NOT NULL , `companiesPANNo` VARCHAR(20) NOT NULL , `companiesGSTNO` VARCHAR(20) NOT NULL , `companies1` INT NOT NULL , `companies2` INT NOT NULL , `companies3` INT NOT NULL , `companiesStatus` TINYINT(19) NOT NULL DEFAULT '0' , `companiesCDT` VARCHAR(100) NOT NULL , PRIMARY KEY (`companiesId`)) ENGINE = InnoDB;
+
+- ALTER TABLE `companies`
+  DROP `companies1`,
+  DROP `companies2`,
+  DROP `companies3`;
+
+- ALTER TABLE `tblorder` ADD `tblcompanies` INT(20) NULL DEFAULT NULL AFTER `ConsigneeId`;
+- ALTER TABLE `tblorder` CHANGE `tblcompanies` `companies` INT(20) NULL DEFAULT NULL;
+- ALTER TABLE `tblorder` CHANGE `companies` `Companies` INT(20) NULL DEFAULT NULL;
+- ALTER TABLE `tblorderpallet` ADD `Companies` INT(20) NULL AFTER `TempoId`;

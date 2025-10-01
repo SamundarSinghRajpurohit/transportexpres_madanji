@@ -1,0 +1,44 @@
+[08-May-2022 07:28:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php on line 28
+[08-May-2022 07:43:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php on line 28
+[08-May-2022 07:59:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php on line 28
+[08-May-2022 08:14:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php on line 28
+[08-May-2022 08:29:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php on line 28
+[08-May-2022 08:33:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php on line 28
+[08-May-2022 08:33:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php on line 28
+[08-May-2022 14:36:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php on line 28
+[08-May-2022 14:36:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php on line 28
+[08-May-2022 20:38:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php on line 28
+[08-May-2022 20:38:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/doctoevv/transportexpert.reliablesolution.in/application/third_party/PHPExcel/Style/Color.php on line 28
